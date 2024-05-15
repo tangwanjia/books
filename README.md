@@ -1,2 +1,4 @@
-# books
-This repository contains the starter files for the Books project.
+# Books
+
+## Objective
+Using the provided data, create a site that displays all books, read books, and unread books. 
